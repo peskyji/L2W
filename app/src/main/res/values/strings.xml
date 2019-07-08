@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Letters 2 Words</string>
+    <string name="et1Text">Enter The Letters</string>
+    <string name="b1">Search</string>
+    <string name="desc">Search Button</string>
+    <string name="line0">Welcome to Letters 2 Words</string>
+    <string name="line1">A Helping Hand To WordGames</string>
+    <string name="description">Application logo</string>
+    <string name="mainActivityimg1">main Activity image 1</string>
+    <string name="mainActivityimg2">main Activity image 2</string>
+    <string name="instructions">#. Use  \'?\'  to search a single character in between like ch?r??t?r  ,  s?h?ol\n\n#. Use WileCard  \'*\'  to search sequence of characters like char* , e*t , *ing
+    </string>
+</resources>
